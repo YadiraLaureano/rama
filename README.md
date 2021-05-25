@@ -1,1 +1,4 @@
 # rama
+solo 
+ll
+as
